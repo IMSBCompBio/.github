@@ -9,8 +9,15 @@
   </a>   
 </p>
 
-<p align="center">
-We are the work group Computational Biology<br/>of the Institute of Medical Statistics and Computational Biology (IMSB)<br/>at the University of Cologne.
+<div align="center">
+
+| <img width=575/><br/>We are the work group Computational Biology<br/>of the Institute of Medical Statistics and Computational Biology<br/>at the University of Cologne.<br/><img width=575/> |
+| --- |
+
+</div>
+
+<p align="justify">
+We focus primarily on research in the fields of RNA metabolism, single-cell omics and spatial transcriptomics, and statistical modelling and algorithms for high-dimensional life science data. We are part of the Cluster of Excellence for Cellular Stress Responses in Aging-Associated Diseases CECAD at the University of Cologne. We are involved in academic teaching mainly in the M.Sc. study courses Biological Sciences of the Faculty of Mathematics and Natural sciences, as well as the Interdisciplinary Program in the area of Health Sciences (IPHS) of the Faculty of Medicine.
 </p>
 
 <p align="center">
@@ -34,14 +41,14 @@ We are the work group Computational Biology<br/>of the Institute of Medical Stat
 <h2 align="center">Favourite Projects</h2>
 <br/>
 <p align="center">
-  <a href="https://github.com/tillbaar/PhD-Thesis">
+  <a href="https://github.com/VladaMilch/breedingCalculator">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=VladaMilch&repo=breedingCalculator&theme=tokyonight" />
   </a>
-  <a href="https://github.com/tillbaar/PhD-Thesis">
+  <a href="https://github.com/rfael0cm/RTIGER">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=rfael0cm&repo=RTIGER&theme=tokyonight" />
   </a>
-  <img width="400" src="https://user-images.githubusercontent.com/33025859/177127076-67c40e61-cff2-4236-bd54-912957240e37.jpg"/>
-  <img width="400" src="https://user-images.githubusercontent.com/33025859/177127076-67c40e61-cff2-4236-bd54-912957240e37.jpg"/>
+  <img width="400" src="https://user-images.githubusercontent.com/33025859/187691827-08a67f1c-2e8d-4bb6-a963-b8575d8a0cd3.jpg"/>
+  <img width="400" src="https://user-images.githubusercontent.com/33025859/187689165-07746d12-e2b5-4186-85d0-dcb92dbb2146.jpg"/>
 </p>                                                                                                                              
 
 <h2 align="center">Favourite Languages</h2>
@@ -56,3 +63,4 @@ We are the work group Computational Biology<br/>of the Institute of Medical Stat
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" alt="julia" width="40" height="40"/>      
   </a>
 </p>
+
