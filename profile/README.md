@@ -21,16 +21,16 @@ We focus primarily on research in the fields of RNA metabolism, single-cell omic
 </p>
 
 <p align="center">
-  <a href="https://github.com/IMSBCompBio/IMSBCompBio">
+  <a href="https://computationalbiology.uni-koeln.de/">
     <img src="https://img.shields.io/badge/homepage-6b9dd0?style=for-the-badge&logo=riseup&logoColor=white" alt="Homepage"/>
   </a>&nbsp;                                                                                 
-  <a href="https://github.com/IMSBCompBio/IMSBCompBio">
+  <a href="https://computationalbiology.uni-koeln.de/publications">
     <img src="https://img.shields.io/badge/publications-aa97d3?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Publications"/>
   </a>&nbsp;                                                                                                                                         
-   <a href="https://github.com/IMSBCompBio/IMSBCompBio">
+   <a href="https://computationalbiology.uni-koeln.de/research">
     <img src="https://img.shields.io/badge/research-87d68a?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Research"/>
   </a>&nbsp;
-  <a href="https://github.com/IMSBCompBio/IMSBCompBio">
+  <a href="https://computationalbiology.uni-koeln.de/team">
     <img src="https://img.shields.io/badge/team-ffa55b?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Team"/>
   </a>&nbsp;                                                                                                                     
   <a href="mailto:imsb-kontakt@uni-koeln.de">
